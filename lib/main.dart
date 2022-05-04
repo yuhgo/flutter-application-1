@@ -56,6 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
               width: 160.0,
               height: 200,
               color: Colors.yellow,
+              child: const Text('added Text Widget 1'),
             ),
             Container(
               width: 160.0,
